@@ -27,11 +27,17 @@ We plotted the distribution of crimes by hour.
 
 ![Victim Age Distribution](images/victim_age_distribution.png)
 
-### Q4: Which descent of people are mostly affected by crimes?
+### Q3: Which descent of people are mostly affected by crimes?
 
 **Answer:**  
 - The highest proportion of victims belong to **Hispanic descent (H)**, making up ~39.9% of all cases.  
 - This is followed by **White (W)** at 24.2% and **Black (B)** at 18.8%.  
 **Supporting Chart:**  
 ![Victim Descent Distribution](images/victim_descent_distribution.png)
+
+###  Q4: Which weapon is most commonly used in committing crimes?  
+
+**Answer:**  
+STRONG-ARM (HANDS, FIST, FEET OR BODILY FORCE) mostly used for committing crime.
+![Weapon Mostly used in crime](images/weapon_distribution.png)
 
