@@ -26,3 +26,12 @@ We plotted the distribution of crimes by hour.
 **Answer:** The majority of crimes are committed against individuals between ages **26 and 34**.
 
 ![Victim Age Distribution](images/victim_age_distribution.png)
+
+### Q4: Which descent of people are mostly affected by crimes?
+
+**Answer:**  
+- The highest proportion of victims belong to **Hispanic descent (H)**, making up ~39.9% of all cases.  
+- This is followed by **White (W)** at 24.2% and **Black (B)** at 18.8%.  
+**Supporting Chart:**  
+![Victim Descent Distribution](images/victim_descent_distribution.png)
+
