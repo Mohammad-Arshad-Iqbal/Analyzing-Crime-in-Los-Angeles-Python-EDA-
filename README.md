@@ -23,6 +23,6 @@ We plotted the distribution of crimes by hour.
 
 ### Q2: What is the age distribution of victims?
 
-The majority of crimes are committed against individuals between ages **X and Y** (fill in from your data).
+**Answer:** The majority of crimes are committed against individuals between ages **26 and 34**.
 
 ![Victim Age Distribution](images/victim_age_distribution.png)
